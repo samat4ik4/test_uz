@@ -1,0 +1,23 @@
+.block{
+    width: 500px;
+}
+.block button{
+    border-radius: 20px;
+    margin: 30px 20px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.box img{
+    width: 100px;
+    height: 50px;
+}
+.but button{
+    display: flex;
+    margin: 30px auto;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
